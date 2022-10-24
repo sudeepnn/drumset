@@ -1,0 +1,104 @@
+body{
+    text-align: center;
+    background-color: #372948;
+}
+.container
+{
+    margin-top: 100px;
+    background-color: #FFF8EA;
+    height: 300px;
+    width: 90vw;
+    position: absolute;
+    left: 5%;
+    right: 5%;
+}
+.tom1
+{
+    margin-right: 20px;
+    height: 250px;
+    width: 250px;
+    display: inline;
+    position: relative;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+.tom2
+{
+    margin-right: 20px;
+    height: 200px;
+    width: 200px;
+    display: inline;
+    position: relative;
+}
+.tom3
+{
+    margin-right: 20px;
+    height: 200px;
+    width: 200px;
+    display: inline;
+    position: relative;
+}
+.tom4
+{
+    margin-right: 20px;
+    height: 200px;
+    width: 200px;
+    display: inline;
+    position: relative;
+}
+.snare
+{
+    margin-right: 20px;
+    height: 250px;
+    width: 250px;
+    display: inline;
+    position: relative;
+}
+.crash
+{
+    margin-right: 20px;
+    height: 200px;
+    width: 200px;
+    display: inline;
+    position: relative;
+}
+.kick
+{
+    margin-right: 20px;
+    height: 200px;
+    width: 200px;
+    display: inline;
+    position: relative;
+}
+@media (max-width:1000px) {
+.end{
+    color: white;
+     padding-bottom: 50px;
+}
+    .container
+{
+    margin-top: 50px;
+    margin-bottom: 100px;
+    background-color: #FFF8EA;
+    height: 600px;
+    width: 90vw;
+    position: absolute;
+    left: 5%;
+    right: 5%;
+}
+#tom-1
+{
+    margin-bottom: 20px;
+}
+#tom-3
+{
+    margin-bottom: 20px;
+}
+#snare-5
+{
+    margin-bottom: 20px;
+}
+
+}
